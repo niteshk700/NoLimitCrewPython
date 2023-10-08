@@ -117,7 +117,7 @@ Implement a binary search algorithm for a sorted list.
 ### 34. Triangle Area
 Calculate and display the area of a triangle given its base and height.
 
-### 35. Circle Area
+35. Circle Area
 Calculate and display the area of a circle given its radius.
 
 ### 36. Rectangle Area
